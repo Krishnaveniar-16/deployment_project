@@ -1,0 +1,6 @@
+rgname                 = "dev-veni-rg"
+service_principal_name = "dev-veni-spn"
+keyvault_name          = "dev-veni-kv-101"
+SUB_ID = ""
+cluster_name = "dev-veni-cluster"
+node_pool_name = "devnp"
